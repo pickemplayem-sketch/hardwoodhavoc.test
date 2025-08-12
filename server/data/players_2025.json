@@ -1,0 +1,686 @@
+[
+  {
+    "id": "uco-001",
+    "name": "Player 1",
+    "school": "UConn",
+    "seed": 1,
+    "position": "G",
+    "ppg": 17.0,
+    "three_pa": 86,
+    "three_pm": 33,
+    "three_pct": 0.384,
+    "round_points": {
+      "R64": 17,
+      "R32": 20,
+      "S16": 25,
+      "E8": 23,
+      "F4": 8,
+      "CH": 14
+    }
+  },
+  {
+    "id": "uco-002",
+    "name": "Player 2",
+    "school": "UConn",
+    "seed": 1,
+    "position": "G",
+    "ppg": 9.3,
+    "three_pa": 139,
+    "three_pm": 48,
+    "three_pct": 0.345,
+    "round_points": {
+      "R64": 11,
+      "R32": 9,
+      "S16": 6,
+      "E8": 5,
+      "F4": 10,
+      "CH": 14
+    }
+  },
+  {
+    "id": "uco-003",
+    "name": "Player 3",
+    "school": "UConn",
+    "seed": 3,
+    "position": "G",
+    "ppg": 17.8,
+    "three_pa": 167,
+    "three_pm": 53,
+    "three_pct": 0.317,
+    "round_points": {
+      "R64": 20,
+      "R32": 29,
+      "S16": 23,
+      "E8": 21,
+      "F4": 13,
+      "CH": 22
+    }
+  },
+  {
+    "id": "pur-004",
+    "name": "Player 4",
+    "school": "Purdue",
+    "seed": 2,
+    "position": "G",
+    "ppg": 18.2,
+    "three_pa": 217,
+    "three_pm": 64,
+    "three_pct": 0.295,
+    "round_points": {
+      "R64": 20,
+      "R32": 16,
+      "S16": 15,
+      "E8": 28,
+      "F4": 23,
+      "CH": 13
+    }
+  },
+  {
+    "id": "pur-005",
+    "name": "Player 5",
+    "school": "Purdue",
+    "seed": 2,
+    "position": "F",
+    "ppg": 8.6,
+    "three_pa": 138,
+    "three_pm": 53,
+    "three_pct": 0.384,
+    "round_points": {
+      "R64": 15,
+      "R32": 7,
+      "S16": 10,
+      "E8": 6,
+      "F4": 2,
+      "CH": 10
+    }
+  },
+  {
+    "id": "pur-006",
+    "name": "Player 6",
+    "school": "Purdue",
+    "seed": 3,
+    "position": "C",
+    "ppg": 13.0,
+    "three_pa": 148,
+    "three_pm": 55,
+    "three_pct": 0.372,
+    "round_points": {
+      "R64": 12,
+      "R32": 11,
+      "S16": 8,
+      "E8": 8,
+      "F4": 13,
+      "CH": 18
+    }
+  },
+  {
+    "id": "duk-007",
+    "name": "Player 7",
+    "school": "Duke",
+    "seed": 3,
+    "position": "G",
+    "ppg": 11.1,
+    "three_pa": 163,
+    "three_pm": 64,
+    "three_pct": 0.393,
+    "round_points": {
+      "R64": 11,
+      "R32": 7,
+      "S16": 14,
+      "E8": 11,
+      "F4": 10,
+      "CH": 14
+    }
+  },
+  {
+    "id": "duk-008",
+    "name": "Player 8",
+    "school": "Duke",
+    "seed": 4,
+    "position": "C",
+    "ppg": 17.2,
+    "three_pa": 181,
+    "three_pm": 73,
+    "three_pct": 0.403,
+    "round_points": {
+      "R64": 14,
+      "R32": 14,
+      "S16": 24,
+      "E8": 25,
+      "F4": 6,
+      "CH": 14
+    }
+  },
+  {
+    "id": "duk-009",
+    "name": "Player 9",
+    "school": "Duke",
+    "seed": 4,
+    "position": "C",
+    "ppg": 13.6,
+    "three_pa": 136,
+    "three_pm": 57,
+    "three_pct": 0.419,
+    "round_points": {
+      "R64": 17,
+      "R32": 18,
+      "S16": 13,
+      "E8": 2,
+      "F4": 15,
+      "CH": 16
+    }
+  },
+  {
+    "id": "ten-010",
+    "name": "Player 10",
+    "school": "Tennessee",
+    "seed": 3,
+    "position": "F",
+    "ppg": 8.9,
+    "three_pa": 177,
+    "three_pm": 64,
+    "three_pct": 0.362,
+    "round_points": {
+      "R64": 6,
+      "R32": 9,
+      "S16": 0,
+      "E8": 6,
+      "F4": 8,
+      "CH": 7
+    }
+  },
+  {
+    "id": "ten-011",
+    "name": "Player 11",
+    "school": "Tennessee",
+    "seed": 1,
+    "position": "F",
+    "ppg": 9.6,
+    "three_pa": 191,
+    "three_pm": 57,
+    "three_pct": 0.298,
+    "round_points": {
+      "R64": 15,
+      "R32": 9,
+      "S16": 7,
+      "E8": 0,
+      "F4": 9,
+      "CH": 5
+    }
+  },
+  {
+    "id": "ten-012",
+    "name": "Player 12",
+    "school": "Tennessee",
+    "seed": 3,
+    "position": "F",
+    "ppg": 19.8,
+    "three_pa": 209,
+    "three_pm": 76,
+    "three_pct": 0.364,
+    "round_points": {
+      "R64": 27,
+      "R32": 30,
+      "S16": 6,
+      "E8": 16,
+      "F4": 19,
+      "CH": 19
+    }
+  },
+  {
+    "id": "ari-013",
+    "name": "Player 13",
+    "school": "Arizona",
+    "seed": 4,
+    "position": "G",
+    "ppg": 8.3,
+    "three_pa": 172,
+    "three_pm": 69,
+    "three_pct": 0.401,
+    "round_points": {
+      "R64": 9,
+      "R32": 5,
+      "S16": 14,
+      "E8": 10,
+      "F4": 9,
+      "CH": 7
+    }
+  },
+  {
+    "id": "ari-014",
+    "name": "Player 14",
+    "school": "Arizona",
+    "seed": 2,
+    "position": "C",
+    "ppg": 21.7,
+    "three_pa": 216,
+    "three_pm": 83,
+    "three_pct": 0.384,
+    "round_points": {
+      "R64": 28,
+      "R32": 28,
+      "S16": 15,
+      "E8": 19,
+      "F4": 28,
+      "CH": 15
+    }
+  },
+  {
+    "id": "ari-015",
+    "name": "Player 15",
+    "school": "Arizona",
+    "seed": 1,
+    "position": "F",
+    "ppg": 18.6,
+    "three_pa": 131,
+    "three_pm": 49,
+    "three_pct": 0.374,
+    "round_points": {
+      "R64": 9,
+      "R32": 25,
+      "S16": 7,
+      "E8": 29,
+      "F4": 13,
+      "CH": 20
+    }
+  },
+  {
+    "id": "kan-016",
+    "name": "Player 16",
+    "school": "Kansas",
+    "seed": 2,
+    "position": "F",
+    "ppg": 8.3,
+    "three_pa": 138,
+    "three_pm": 50,
+    "three_pct": 0.362,
+    "round_points": {
+      "R64": 13,
+      "R32": 8,
+      "S16": 9,
+      "E8": 8,
+      "F4": 11,
+      "CH": 8
+    }
+  },
+  {
+    "id": "kan-017",
+    "name": "Player 17",
+    "school": "Kansas",
+    "seed": 1,
+    "position": "G",
+    "ppg": 17.4,
+    "three_pa": 134,
+    "three_pm": 47,
+    "three_pct": 0.351,
+    "round_points": {
+      "R64": 15,
+      "R32": 3,
+      "S16": 12,
+      "E8": 15,
+      "F4": 10,
+      "CH": 18
+    }
+  },
+  {
+    "id": "kan-018",
+    "name": "Player 18",
+    "school": "Kansas",
+    "seed": 3,
+    "position": "G",
+    "ppg": 17.2,
+    "three_pa": 170,
+    "three_pm": 57,
+    "three_pct": 0.335,
+    "round_points": {
+      "R64": 6,
+      "R32": 19,
+      "S16": 8,
+      "E8": 0,
+      "F4": 22,
+      "CH": 21
+    }
+  },
+  {
+    "id": "gon-019",
+    "name": "Player 19",
+    "school": "Gonzaga",
+    "seed": 1,
+    "position": "G",
+    "ppg": 11.5,
+    "three_pa": 128,
+    "three_pm": 45,
+    "three_pct": 0.352,
+    "round_points": {
+      "R64": 13,
+      "R32": 13,
+      "S16": 2,
+      "E8": 13,
+      "F4": 18,
+      "CH": 15
+    }
+  },
+  {
+    "id": "gon-020",
+    "name": "Player 20",
+    "school": "Gonzaga",
+    "seed": 4,
+    "position": "G",
+    "ppg": 17.1,
+    "three_pa": 218,
+    "three_pm": 86,
+    "three_pct": 0.394,
+    "round_points": {
+      "R64": 32,
+      "R32": 14,
+      "S16": 19,
+      "E8": 13,
+      "F4": 12,
+      "CH": 17
+    }
+  },
+  {
+    "id": "gon-021",
+    "name": "Player 21",
+    "school": "Gonzaga",
+    "seed": 4,
+    "position": "G",
+    "ppg": 10.3,
+    "three_pa": 80,
+    "three_pm": 33,
+    "three_pct": 0.412,
+    "round_points": {
+      "R64": 9,
+      "R32": 17,
+      "S16": 6,
+      "E8": 11,
+      "F4": 23,
+      "CH": 6
+    }
+  },
+  {
+    "id": "nor-022",
+    "name": "Player 22",
+    "school": "North Carolina",
+    "seed": 2,
+    "position": "G",
+    "ppg": 10.7,
+    "three_pa": 135,
+    "three_pm": 56,
+    "three_pct": 0.415,
+    "round_points": {
+      "R64": 5,
+      "R32": 8,
+      "S16": 10,
+      "E8": 9,
+      "F4": 6,
+      "CH": 8
+    }
+  },
+  {
+    "id": "nor-023",
+    "name": "Player 23",
+    "school": "North Carolina",
+    "seed": 1,
+    "position": "C",
+    "ppg": 21.5,
+    "three_pa": 100,
+    "three_pm": 39,
+    "three_pct": 0.39,
+    "round_points": {
+      "R64": 24,
+      "R32": 22,
+      "S16": 27,
+      "E8": 14,
+      "F4": 31,
+      "CH": 17
+    }
+  },
+  {
+    "id": "nor-024",
+    "name": "Player 24",
+    "school": "North Carolina",
+    "seed": 4,
+    "position": "F",
+    "ppg": 9.1,
+    "three_pa": 213,
+    "three_pm": 69,
+    "three_pct": 0.324,
+    "round_points": {
+      "R64": 8,
+      "R32": 14,
+      "S16": 7,
+      "E8": 11,
+      "F4": 12,
+      "CH": 12
+    }
+  },
+  {
+    "id": "hou-025",
+    "name": "Player 25",
+    "school": "Houston",
+    "seed": 3,
+    "position": "G",
+    "ppg": 21.0,
+    "three_pa": 98,
+    "three_pm": 27,
+    "three_pct": 0.276,
+    "round_points": {
+      "R64": 13,
+      "R32": 13,
+      "S16": 29,
+      "E8": 27,
+      "F4": 16,
+      "CH": 20
+    }
+  },
+  {
+    "id": "hou-026",
+    "name": "Player 26",
+    "school": "Houston",
+    "seed": 3,
+    "position": "G",
+    "ppg": 20.3,
+    "three_pa": 174,
+    "three_pm": 55,
+    "three_pct": 0.316,
+    "round_points": {
+      "R64": 10,
+      "R32": 24,
+      "S16": 12,
+      "E8": 42,
+      "F4": 23,
+      "CH": 10
+    }
+  },
+  {
+    "id": "hou-027",
+    "name": "Player 27",
+    "school": "Houston",
+    "seed": 3,
+    "position": "C",
+    "ppg": 21.1,
+    "three_pa": 114,
+    "three_pm": 36,
+    "three_pct": 0.316,
+    "round_points": {
+      "R64": 31,
+      "R32": 12,
+      "S16": 24,
+      "E8": 26,
+      "F4": 22,
+      "CH": 28
+    }
+  },
+  {
+    "id": "ala-028",
+    "name": "Player 28",
+    "school": "Alabama",
+    "seed": 4,
+    "position": "C",
+    "ppg": 14.8,
+    "three_pa": 93,
+    "three_pm": 27,
+    "three_pct": 0.29,
+    "round_points": {
+      "R64": 10,
+      "R32": 17,
+      "S16": 24,
+      "E8": 15,
+      "F4": 11,
+      "CH": 11
+    }
+  },
+  {
+    "id": "ala-029",
+    "name": "Player 29",
+    "school": "Alabama",
+    "seed": 4,
+    "position": "G",
+    "ppg": 17.9,
+    "three_pa": 82,
+    "three_pm": 24,
+    "three_pct": 0.293,
+    "round_points": {
+      "R64": 28,
+      "R32": 14,
+      "S16": 19,
+      "E8": 19,
+      "F4": 11,
+      "CH": 24
+    }
+  },
+  {
+    "id": "ala-030",
+    "name": "Player 30",
+    "school": "Alabama",
+    "seed": 4,
+    "position": "C",
+    "ppg": 8.6,
+    "three_pa": 173,
+    "three_pm": 70,
+    "three_pct": 0.405,
+    "round_points": {
+      "R64": 10,
+      "R32": 2,
+      "S16": 10,
+      "E8": 7,
+      "F4": 8,
+      "CH": 10
+    }
+  },
+  {
+    "id": "bay-031",
+    "name": "Player 31",
+    "school": "Baylor",
+    "seed": 4,
+    "position": "G",
+    "ppg": 18.5,
+    "three_pa": 140,
+    "three_pm": 56,
+    "three_pct": 0.4,
+    "round_points": {
+      "R64": 31,
+      "R32": 16,
+      "S16": 19,
+      "E8": 17,
+      "F4": 17,
+      "CH": 11
+    }
+  },
+  {
+    "id": "bay-032",
+    "name": "Player 32",
+    "school": "Baylor",
+    "seed": 2,
+    "position": "G",
+    "ppg": 11.7,
+    "three_pa": 107,
+    "three_pm": 35,
+    "three_pct": 0.327,
+    "round_points": {
+      "R64": 16,
+      "R32": 12,
+      "S16": 14,
+      "E8": 21,
+      "F4": 6,
+      "CH": 18
+    }
+  },
+  {
+    "id": "bay-033",
+    "name": "Player 33",
+    "school": "Baylor",
+    "seed": 3,
+    "position": "G",
+    "ppg": 8.3,
+    "three_pa": 129,
+    "three_pm": 43,
+    "three_pct": 0.333,
+    "round_points": {
+      "R64": 8,
+      "R32": 9,
+      "S16": 8,
+      "E8": 5,
+      "F4": 3,
+      "CH": 8
+    }
+  },
+  {
+    "id": "mar-034",
+    "name": "Player 34",
+    "school": "Marquette",
+    "seed": 1,
+    "position": "F",
+    "ppg": 9.6,
+    "three_pa": 146,
+    "three_pm": 44,
+    "three_pct": 0.301,
+    "round_points": {
+      "R64": 12,
+      "R32": 8,
+      "S16": 12,
+      "E8": 12,
+      "F4": 9,
+      "CH": 6
+    }
+  },
+  {
+    "id": "mar-035",
+    "name": "Player 35",
+    "school": "Marquette",
+    "seed": 2,
+    "position": "F",
+    "ppg": 20.6,
+    "three_pa": 128,
+    "three_pm": 40,
+    "three_pct": 0.312,
+    "round_points": {
+      "R64": 20,
+      "R32": 20,
+      "S16": 29,
+      "E8": 15,
+      "F4": 18,
+      "CH": 7
+    }
+  },
+  {
+    "id": "mar-036",
+    "name": "Player 36",
+    "school": "Marquette",
+    "seed": 3,
+    "position": "C",
+    "ppg": 14.0,
+    "three_pa": 164,
+    "three_pm": 60,
+    "three_pct": 0.366,
+    "round_points": {
+      "R64": 12,
+      "R32": 11,
+      "S16": 19,
+      "E8": 10,
+      "F4": 11,
+      "CH": 9
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "pickem-server",
+  "type": "module",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "better-sqlite3": "^9.4.0",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7"
+  }
+}
